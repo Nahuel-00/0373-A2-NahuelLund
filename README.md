@@ -28,7 +28,7 @@ Es un modo de redactar ciertas partes o elementos de un documento o aplicación 
 
 
 
-4. ¿Qué es HTML? ¿Sabes cómo se estructura?
+4. ¿Qué es ```HTML```? ¿Sabes cómo se estructura?
 
 Es el lenguaje que se usa para crear páginas web. Organiza el contenido en un documento que tiene una estructura básica con un contenedor principal y varias secciones en las cualaes se almacena el contenido visible.
 
@@ -50,7 +50,7 @@ Es el lenguaje que se usa para crear páginas web. Organiza el contenido en un d
 ```
 
 
-5. ¿Qué es CSS?
+5. ¿Qué es ```CSS```?
 
 Es un lenguaje que se usa para darle estilo a las páginas web, te permite cambiar cosas como los colores, fondos, etc. El css genera que se vea todo mas organizado y limpio en una pagina web.
 
